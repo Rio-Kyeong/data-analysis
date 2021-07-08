@@ -16,7 +16,7 @@ SIST에서 운영하는 사이트인 sist.co.kr의 관리자인 당신은
 * 비정상적인 요청(403)이 발생한 횟수, 비율 구하기 
 
 * 입력되는 라인에 해당하는 정보출력
-    (1000~1500번째 라인에 해당하는 정보 중 최다사용 키의 이름과 횟수 )
+    (1000~1500번째 라인에 해당하는 정보 중 최다사용 키의 이름과 횟수)
     
     
 * PPT : [data_analysis_team_project.pptx](https://github.com/RyuKyeongWoo/data_analysis_team_project/blob/main/Data_Analysis_TeamProject/prj1/%5B3%EC%A1%B0%5DJava%20Team%20Project.pptx?raw=true)
